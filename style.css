@@ -1,0 +1,9 @@
+/*
+ * This file contains custom CSS rules.
+ * All styling related to layout, colors, and fonts is handled
+ * by Tailwind CSS utility classes directly in the HTML file.
+ */
+
+body {
+    font-family: 'Inter', sans-serif;
+}
